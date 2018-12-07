@@ -49,6 +49,6 @@ ellipse(370,260,140,140);
  fill(255,128,0);
  textAlign(CENTER);
  textSize(50);
- text("Thank You MoM",450,350);
+ text("Thank You Mom Dad",450,350);
 
 }
