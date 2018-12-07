@@ -51,4 +51,5 @@ ellipse(370,260,140,140);
  textSize(50);
  text("Thank You Mom",450,350);
 
+line(mouseX,900,mouseY,0);
 }
