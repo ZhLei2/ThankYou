@@ -1,4 +1,6 @@
 //add thank you code here
+@pjs preload= "bomb.png";
+
 
 PImage img;
 
