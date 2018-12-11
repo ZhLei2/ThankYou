@@ -1,5 +1,5 @@
 //add thank you code here
-@pjs preload= "bomb.jpg";
+/* @pjs preload= "bomb.jpg"; */
 
 
 PImage img;
