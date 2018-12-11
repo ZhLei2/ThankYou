@@ -58,20 +58,3 @@ ellipse(370,260,140,140);
 
 line(mouseX,900,mouseY,0);
 }
-ellipse(600,500,100,100);
-fill(random(153,255),255,51,random(20,70));
-ellipse(570,400,150,150);
-ellipse(300,400,90,90);
-ellipse(450,200,125,125);
-fill(0,random(204,102),204,random(50,100));
-ellipse(350,425,50,50);
-ellipse(290,350,60,60);
-ellipse(370,260,140,140);
- 
- fill(255,128,0);
- textAlign(CENTER);
- textSize(50);
- text("Thank You Mom",450,350);
-
-line(mouseX,900,mouseY,0);
-}
